@@ -163,24 +163,3 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-#archives
-lanus_escalada_0.5.png
-lanus_escalada_0.75.png
-lanus_escalada_1.5.png
-lanus_escalada_2.0.png
-lanus_falsa.jpg
-lanus_falsa2.png
-lanus_falsa3.png
-lanus_iluminada_0.5.png
-lanus_iluminada_1.5.png
-lanus_iluminada_2.0.png
-lanus_perspectiva_0.png
-lanus_perspectiva_1.png
-lanus_rotada_15.png
-lanus_rotada_30.png
-lanus_rotada_45.png
-lanus_rotada_60.png
-lanus_trasladada_-30_-50.png
-lanus_trasladada_-50_30.png
-lanus_trasladada_30_50.png
-lanus_trasladada_50_-30.png
