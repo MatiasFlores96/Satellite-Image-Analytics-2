@@ -21,11 +21,10 @@ Ensure the following Python packages are installed to run the script:
 - `matplotlib`
 - `numpy` 
 - `scikit-learn`
-- `pillow` 
 - `jupyter` (optional)
 
 ```bash
-pip install opencv-python matplotlib numpy jupyter scikit-learn pillow
+pip install opencv-python matplotlib numpy jupyter scikit-learn
 ```
 ## Setup
 
